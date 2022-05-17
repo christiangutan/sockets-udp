@@ -1,0 +1,7 @@
+30-03-2022 01:47:42:222 udp_client [INFO] : inici client
+30-03-2022 01:47:42:228 udp_client [TRACE] : [1] Query for key k1 at localhost:5836
+30-03-2022 01:47:42:228 udp_client [INFO] : inici RemoteMapUDPclient.get 
+30-03-2022 01:47:42:228 udp_client [TRACE] : key: k1
+30-03-2022 01:47:42:228 udp_client [TRACE] : server_address: localhost
+30-03-2022 01:47:42:228 udp_client [TRACE] : server_port: 5836
+30-03-2022 01:47:42:270 udp_client [TRACE] : Socket sent

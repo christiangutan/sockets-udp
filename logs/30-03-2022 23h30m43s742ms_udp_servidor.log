@@ -1,0 +1,5 @@
+30-03-2022 23:30:43:876 udp_servidor [INFO] : inici servidor
+30-03-2022 23:30:43:882 udp_servidor [INFO] : Inici RemoteMapUDPservidor 
+30-03-2022 23:30:43:884 udp_servidor [INFO] : server_port: 5838
+30-03-2022 23:30:43:884 udp_servidor [INFO] : map: {k2=Thirty}
+30-03-2022 23:30:44:924 udp_servidor [ERROR] : IOException - RemoteMapUDPservidor - during execution service UDP: Receive timed out

@@ -1,0 +1,5 @@
+30-03-2022 01:57:03:959 udp_servidor [INFO] : inici servidor
+30-03-2022 01:57:03:962 udp_servidor [INFO] : Inici RemoteMapUDPservidor 
+30-03-2022 01:57:03:962 udp_servidor [INFO] : server_port: 5838
+30-03-2022 01:57:03:962 udp_servidor [INFO] : map: {k2=Thirty}
+30-03-2022 01:57:03:981 udp_servidor [ERROR] : Address already in use: bind

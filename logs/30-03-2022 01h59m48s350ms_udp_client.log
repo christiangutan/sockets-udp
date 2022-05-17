@@ -1,0 +1,38 @@
+30-03-2022 01:59:48:408 udp_client [INFO] : inici client
+30-03-2022 01:59:48:412 udp_client [TRACE] : [1] Query for key k1 at localhost:5836
+30-03-2022 01:59:48:412 udp_client [INFO] : inici RemoteMapUDPclient.get 
+30-03-2022 01:59:48:412 udp_client [TRACE] : key: k1
+30-03-2022 01:59:48:412 udp_client [TRACE] : server_address: localhost
+30-03-2022 01:59:48:412 udp_client [TRACE] : server_port: 5836
+30-03-2022 01:59:48:435 udp_client [TRACE] : Socket sent
+30-03-2022 01:59:48:436 udp_client [TRACE] : Socket received
+30-03-2022 01:59:48:437 udp_client [TRACE] : Socket closed
+30-03-2022 01:59:48:437 udp_client [TRACE] : [1] RemoteMap(k1): [B@41906a77
+30-03-2022 01:59:48:437 udp_client [TRACE] : [2] Query for key k2 at localhost:5838
+30-03-2022 01:59:48:437 udp_client [INFO] : inici RemoteMapUDPclient.get 
+30-03-2022 01:59:48:437 udp_client [TRACE] : key: k2
+30-03-2022 01:59:48:437 udp_client [TRACE] : server_address: localhost
+30-03-2022 01:59:48:437 udp_client [TRACE] : server_port: 5838
+30-03-2022 01:59:48:437 udp_client [TRACE] : Socket sent
+30-03-2022 01:59:48:438 udp_client [TRACE] : Socket received
+30-03-2022 01:59:48:439 udp_client [TRACE] : Socket closed
+30-03-2022 01:59:48:439 udp_client [TRACE] : [2] RemoteMap(k2): [B@5387f9e0
+30-03-2022 01:59:48:439 udp_client [TRACE] : [3] Query for key k3 at localhost:5836
+30-03-2022 01:59:48:439 udp_client [INFO] : inici RemoteMapUDPclient.get 
+30-03-2022 01:59:48:439 udp_client [TRACE] : key: k3
+30-03-2022 01:59:48:439 udp_client [TRACE] : server_address: localhost
+30-03-2022 01:59:48:439 udp_client [TRACE] : server_port: 5836
+30-03-2022 01:59:48:439 udp_client [TRACE] : Socket sent
+30-03-2022 01:59:48:440 udp_client [TRACE] : Socket received
+30-03-2022 01:59:48:440 udp_client [TRACE] : Socket closed
+30-03-2022 01:59:48:440 udp_client [TRACE] : [3] RemoteMap(k3): [B@6e5e91e4
+30-03-2022 01:59:48:440 udp_client [TRACE] : [4] Query for key k4 at localhost:5836
+30-03-2022 01:59:48:440 udp_client [INFO] : inici RemoteMapUDPclient.get 
+30-03-2022 01:59:48:440 udp_client [TRACE] : key: k4
+30-03-2022 01:59:48:440 udp_client [TRACE] : server_address: localhost
+30-03-2022 01:59:48:440 udp_client [TRACE] : server_port: 5836
+30-03-2022 01:59:48:440 udp_client [TRACE] : Socket sent
+30-03-2022 01:59:48:441 udp_client [TRACE] : Socket received
+30-03-2022 01:59:48:441 udp_client [TRACE] : Socket closed
+30-03-2022 01:59:48:441 udp_client [TRACE] : [4] RemoteMap(k4): [B@2cdf8d8a
+30-03-2022 01:59:48:441 udp_client [INFO] : map: {k1=[B@41906a77, k2=[B@5387f9e0, k3=[B@6e5e91e4, k4=[B@2cdf8d8a}

@@ -1,0 +1,6 @@
+30-03-2022 01:50:38:763 udp_servidor [INFO] : inici servidor
+30-03-2022 01:50:38:769 udp_servidor [INFO] : Inici RemoteMapUDPservidor 
+30-03-2022 01:50:38:769 udp_servidor [INFO] : server_port: 5836
+30-03-2022 01:50:38:769 udp_servidor [INFO] : map: {k1=One, k3=Eleven, k4=Twenty-one}
+30-03-2022 01:50:53:110 udp_servidor [TRACE] : Socket received
+30-03-2022 01:50:53:111 udp_servidor [ERROR] : Cannot invoke "String.getBytes()" because "infoToSend" is null

@@ -1,0 +1,38 @@
+30-03-2022 23:34:22:324 udp_client [INFO] : inici client
+30-03-2022 23:34:22:481 udp_client [TRACE] : [1] Query for key k1 at localhost:5836
+30-03-2022 23:34:22:481 udp_client [INFO] : inici RemoteMapUDPclient.get 
+30-03-2022 23:34:22:481 udp_client [TRACE] : key: k1
+30-03-2022 23:34:22:481 udp_client [TRACE] : server_address: localhost
+30-03-2022 23:34:22:481 udp_client [TRACE] : server_port: 5836
+30-03-2022 23:34:22:839 udp_client [TRACE] : Socket sent
+30-03-2022 23:34:22:841 udp_client [TRACE] : Socket received
+30-03-2022 23:34:22:903 udp_client [TRACE] : Socket closed
+30-03-2022 23:34:22:903 udp_client [TRACE] : [1] RemoteMap(k1): One
+30-03-2022 23:34:22:903 udp_client [TRACE] : [2] Query for key k2 at localhost:5838
+30-03-2022 23:34:22:903 udp_client [INFO] : inici RemoteMapUDPclient.get 
+30-03-2022 23:34:22:903 udp_client [TRACE] : key: k2
+30-03-2022 23:34:22:903 udp_client [TRACE] : server_address: localhost
+30-03-2022 23:34:22:903 udp_client [TRACE] : server_port: 5838
+30-03-2022 23:34:22:903 udp_client [TRACE] : Socket sent
+30-03-2022 23:34:22:904 udp_client [TRACE] : Socket received
+30-03-2022 23:34:22:904 udp_client [TRACE] : Socket closed
+30-03-2022 23:34:22:904 udp_client [TRACE] : [2] RemoteMap(k2): Thirty
+30-03-2022 23:34:22:904 udp_client [TRACE] : [3] Query for key k3 at localhost:5836
+30-03-2022 23:34:22:904 udp_client [INFO] : inici RemoteMapUDPclient.get 
+30-03-2022 23:34:22:904 udp_client [TRACE] : key: k3
+30-03-2022 23:34:22:904 udp_client [TRACE] : server_address: localhost
+30-03-2022 23:34:22:904 udp_client [TRACE] : server_port: 5836
+30-03-2022 23:34:22:905 udp_client [TRACE] : Socket sent
+30-03-2022 23:34:22:905 udp_client [TRACE] : Socket received
+30-03-2022 23:34:22:905 udp_client [TRACE] : Socket closed
+30-03-2022 23:34:22:905 udp_client [TRACE] : [3] RemoteMap(k3): Eleven
+30-03-2022 23:34:22:905 udp_client [TRACE] : [4] Query for key k4 at localhost:5836
+30-03-2022 23:34:22:905 udp_client [INFO] : inici RemoteMapUDPclient.get 
+30-03-2022 23:34:22:905 udp_client [TRACE] : key: k4
+30-03-2022 23:34:22:905 udp_client [TRACE] : server_address: localhost
+30-03-2022 23:34:22:905 udp_client [TRACE] : server_port: 5836
+30-03-2022 23:34:22:906 udp_client [TRACE] : Socket sent
+30-03-2022 23:34:22:906 udp_client [TRACE] : Socket received
+30-03-2022 23:34:22:906 udp_client [TRACE] : Socket closed
+30-03-2022 23:34:22:906 udp_client [TRACE] : [4] RemoteMap(k4): Twenty-one
+30-03-2022 23:34:22:906 udp_client [INFO] : map: {k1=One, k2=Thirty, k3=Eleven, k4=Twenty-one}

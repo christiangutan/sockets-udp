@@ -1,0 +1,30 @@
+30-03-2022 01:03:40:514 udp_client [INFO] : inici client
+30-03-2022 01:03:40:518 udp_client [TRACE] : [1] Query for key k1 at localhost:5836
+30-03-2022 01:03:40:519 udp_client [INFO] : inici RemoteMapUDPclient.get 
+30-03-2022 01:03:40:519 udp_client [TRACE] : key: k1
+30-03-2022 01:03:40:519 udp_client [TRACE] : server_address: localhost
+30-03-2022 01:03:40:519 udp_client [TRACE] : server_port: 5836
+30-03-2022 01:03:40:556 udp_client [ERROR] : illegal length or offset
+30-03-2022 01:03:40:556 udp_client [TRACE] : [1] RemoteMap(k1): null
+30-03-2022 01:03:40:556 udp_client [TRACE] : [2] Query for key k2 at localhost:5838
+30-03-2022 01:03:40:556 udp_client [INFO] : inici RemoteMapUDPclient.get 
+30-03-2022 01:03:40:556 udp_client [TRACE] : key: k2
+30-03-2022 01:03:40:556 udp_client [TRACE] : server_address: localhost
+30-03-2022 01:03:40:556 udp_client [TRACE] : server_port: 5838
+30-03-2022 01:03:40:557 udp_client [ERROR] : illegal length or offset
+30-03-2022 01:03:40:557 udp_client [TRACE] : [2] RemoteMap(k2): null
+30-03-2022 01:03:40:557 udp_client [TRACE] : [3] Query for key k3 at localhost:5836
+30-03-2022 01:03:40:557 udp_client [INFO] : inici RemoteMapUDPclient.get 
+30-03-2022 01:03:40:557 udp_client [TRACE] : key: k3
+30-03-2022 01:03:40:557 udp_client [TRACE] : server_address: localhost
+30-03-2022 01:03:40:557 udp_client [TRACE] : server_port: 5836
+30-03-2022 01:03:40:557 udp_client [ERROR] : illegal length or offset
+30-03-2022 01:03:40:557 udp_client [TRACE] : [3] RemoteMap(k3): null
+30-03-2022 01:03:40:557 udp_client [TRACE] : [4] Query for key k4 at localhost:5836
+30-03-2022 01:03:40:557 udp_client [INFO] : inici RemoteMapUDPclient.get 
+30-03-2022 01:03:40:557 udp_client [TRACE] : key: k4
+30-03-2022 01:03:40:557 udp_client [TRACE] : server_address: localhost
+30-03-2022 01:03:40:557 udp_client [TRACE] : server_port: 5836
+30-03-2022 01:03:40:557 udp_client [ERROR] : illegal length or offset
+30-03-2022 01:03:40:557 udp_client [TRACE] : [4] RemoteMap(k4): null
+30-03-2022 01:03:40:557 udp_client [INFO] : map: {k1=null, k2=null, k3=null, k4=null}

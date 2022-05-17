@@ -1,0 +1,5 @@
+30-03-2022 23:32:57:135 udp_servidor [INFO] : inici servidor
+30-03-2022 23:32:57:141 udp_servidor [INFO] : Inici RemoteMapUDPservidor 
+30-03-2022 23:32:57:141 udp_servidor [INFO] : server_port: 5838
+30-03-2022 23:32:57:141 udp_servidor [INFO] : map: {k2=Thirty}
+30-03-2022 23:33:03:171 udp_servidor [TRACE] : Socket Closed

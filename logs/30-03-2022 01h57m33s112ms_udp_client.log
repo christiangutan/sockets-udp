@@ -1,0 +1,16 @@
+30-03-2022 01:57:33:175 udp_client [INFO] : inici client
+30-03-2022 01:57:33:180 udp_client [TRACE] : [1] Query for key k1 at localhost:5836
+30-03-2022 01:57:33:180 udp_client [INFO] : inici RemoteMapUDPclient.get 
+30-03-2022 01:57:33:180 udp_client [TRACE] : key: k1
+30-03-2022 01:57:33:180 udp_client [TRACE] : server_address: localhost
+30-03-2022 01:57:33:180 udp_client [TRACE] : server_port: 5836
+30-03-2022 01:57:33:206 udp_client [TRACE] : Socket sent
+30-03-2022 01:57:33:207 udp_client [TRACE] : Socket received
+30-03-2022 01:57:33:208 udp_client [TRACE] : Socket closed
+30-03-2022 01:57:33:208 udp_client [TRACE] : [1] RemoteMap(k1): [B@41906a77
+30-03-2022 01:57:33:208 udp_client [TRACE] : [2] Query for key k2 at localhost:5838
+30-03-2022 01:57:33:208 udp_client [INFO] : inici RemoteMapUDPclient.get 
+30-03-2022 01:57:33:208 udp_client [TRACE] : key: k2
+30-03-2022 01:57:33:208 udp_client [TRACE] : server_address: localhost
+30-03-2022 01:57:33:208 udp_client [TRACE] : server_port: 5838
+30-03-2022 01:57:33:208 udp_client [TRACE] : Socket sent
